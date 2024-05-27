@@ -1,4 +1,3 @@
-import tweety
 import pandas  as pd
 from tweety import Twitter
 from tweety import user
