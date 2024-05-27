@@ -20,7 +20,7 @@ if __name__ == '__main__':
 
     if st.session_state['show_data']:
         # 使用fetch_data：csv文件以自动保存为：'current_data.csv'中
-        # fetch_data()
+        fetch_data()
 
         # 已经自动进行了一系列文本清洗预处理，将current_data.csv中的文件保存到了df中
         df_current = data_preprocessing()
