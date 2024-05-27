@@ -1,0 +1,26 @@
+audio_space_id 可能表示与推文相关的音频空间的ID。
+author 表示推文的作者。
+bookmark_count 表示推文的书签数。
+comments 表示推文的评论。
+community 和 community_note 可能与推文相关的社区信息有关。
+created_on 和 date 表示推文创建的日期。
+hashtags 表示推文中包含的话题标签。
+id 表示推文的唯一标识符。
+is_quoted, is_reply, is_retweet 表示推文是否是引用、回复或转推。
+is_sensitive 表示推文是否包含敏感内容。
+language 表示推文的语言。
+likes 和 like 表示推文的点赞数。
+media 表示推文中包含的媒体内容。
+original_tweet 表示原始推文（如果当前推文是转推或回复）。
+place 表示推文发布的地点。
+quote_counts, reply_counts, retweet_counts 分别表示引用、回复和转推的数量。
+quoted_tweet, replied_to, retweeted_tweet 分别表示被引用的推文、被回复的推文和被转推的推文。
+rich_text 可能表示推文的富文本内容。
+source 表示发布推文的来源（如某个应用或设备）。
+symbols 可能表示推文中包含的股票符号。
+text 和 tweet_body 表示推文的文本内容。
+url 和 urls 表示推文中包含的链接。
+user_mentions 表示推文中提及的用户。
+vibe 可能表示推文的情绪或氛围。
+views 表示推文的查看次数。
+voice_info 可能表示与推文相关的语音信息。
