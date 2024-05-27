@@ -4,4 +4,4 @@ nltk~=3.8.1
 plotly~=5.9.0
 matplotlib~=3.7.1
 wordcloud
-tweety
+tweety-ns
